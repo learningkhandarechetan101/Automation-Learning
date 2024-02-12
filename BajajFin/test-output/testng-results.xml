@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-05T11:19:31 IST" name="Suite" finished-at="2024-02-05T11:21:15 IST" duration-ms="104592">
+    <groups>
+    </groups>
+    <test started-at="2024-02-05T11:19:31 IST" name="Test" finished-at="2024-02-05T11:21:15 IST" duration-ms="104592">
+      <class name="BajajFin.tests.PractisePage">
+        <test-method is-config="true" signature="intializeDriver()[pri:0, instance:BajajFin.tests.PractisePage@61078690]" started-at="2024-02-05T11:19:31 IST" name="intializeDriver" finished-at="2024-02-05T11:19:57 IST" duration-ms="26408" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intializeDriver -->
+        <test-method signature="Link()[pri:1, instance:BajajFin.tests.PractisePage@61078690]" started-at="2024-02-05T11:19:57 IST" name="Link" finished-at="2024-02-05T11:20:06 IST" duration-ms="8771" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Link -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:BajajFin.tests.PractisePage@61078690]" started-at="2024-02-05T11:20:06 IST" name="tearDown" finished-at="2024-02-05T11:20:07 IST" duration-ms="1434" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="intializeDriver()[pri:0, instance:BajajFin.tests.PractisePage@61078690]" started-at="2024-02-05T11:20:07 IST" name="intializeDriver" finished-at="2024-02-05T11:20:21 IST" duration-ms="13941" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intializeDriver -->
+        <test-method signature="Button()[pri:2, instance:BajajFin.tests.PractisePage@61078690]" started-at="2024-02-05T11:20:21 IST" name="Button" finished-at="2024-02-05T11:20:24 IST" duration-ms="2430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Button -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:BajajFin.tests.PractisePage@61078690]" started-at="2024-02-05T11:20:24 IST" name="tearDown" finished-at="2024-02-05T11:20:24 IST" duration-ms="675" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="intializeDriver()[pri:0, instance:BajajFin.tests.PractisePage@61078690]" started-at="2024-02-05T11:20:24 IST" name="intializeDriver" finished-at="2024-02-05T11:20:39 IST" duration-ms="14785" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intializeDriver -->
+        <test-method signature="DropDowns()[pri:3, instance:BajajFin.tests.PractisePage@61078690]" started-at="2024-02-05T11:20:39 IST" name="DropDowns" finished-at="2024-02-05T11:20:40 IST" duration-ms="462" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DropDowns -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:BajajFin.tests.PractisePage@61078690]" started-at="2024-02-05T11:20:40 IST" name="tearDown" finished-at="2024-02-05T11:20:40 IST" duration-ms="185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="intializeDriver()[pri:0, instance:BajajFin.tests.PractisePage@61078690]" started-at="2024-02-05T11:20:40 IST" name="intializeDriver" finished-at="2024-02-05T11:20:57 IST" duration-ms="17270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intializeDriver -->
+        <test-method signature="SwitchWindow()[pri:4, instance:BajajFin.tests.PractisePage@61078690]" started-at="2024-02-05T11:20:57 IST" name="SwitchWindow" finished-at="2024-02-05T11:20:57 IST" duration-ms="174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SwitchWindow -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:BajajFin.tests.PractisePage@61078690]" started-at="2024-02-05T11:20:57 IST" name="tearDown" finished-at="2024-02-05T11:20:58 IST" duration-ms="752" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="intializeDriver()[pri:0, instance:BajajFin.tests.PractisePage@61078690]" started-at="2024-02-05T11:20:58 IST" name="intializeDriver" finished-at="2024-02-05T11:21:12 IST" duration-ms="14435" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intializeDriver -->
+        <test-method signature="MouseHover()[pri:5, instance:BajajFin.tests.PractisePage@61078690]" started-at="2024-02-05T11:21:12 IST" name="MouseHover" finished-at="2024-02-05T11:21:14 IST" duration-ms="2026" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MouseHover -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:BajajFin.tests.PractisePage@61078690]" started-at="2024-02-05T11:21:15 IST" name="tearDown" finished-at="2024-02-05T11:21:15 IST" duration-ms="766" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- BajajFin.tests.PractisePage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
